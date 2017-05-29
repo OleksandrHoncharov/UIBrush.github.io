@@ -1,0 +1,25 @@
+@media only screen and (max-width: 768px) {
+    .item-img:hover .info button {
+        left: 38%;
+    }
+    .top-menu ul {
+        text-align: center;
+        float: none!important;
+    }
+    .top-menu li {
+        display: block!important;
+    }
+    .header-main {
+        padding-top: 5%;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .item-img:hover .info button {
+        left: 28%;
+    }
+    .top-menu a {
+        padding-top: 0!important;
+    }
+}
+	
